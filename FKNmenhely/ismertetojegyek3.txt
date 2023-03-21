@@ -1,0 +1,5 @@
+fekete
+barna
+rózsaszín
+sötétbarna
+vörös

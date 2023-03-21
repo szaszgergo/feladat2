@@ -1,0 +1,9 @@
+fekete
+barna
+fehér
+szürke
+vörös
+arany
+sárga
+tigriscsíkos
+foltos
